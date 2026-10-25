@@ -1,0 +1,11 @@
+warehouse_id,name,city,state,capacity
+1,Warehouse 01,Hyderabad,Telangana,19173
+2,Warehouse 02,Chennai,Tamil Nadu,14376
+3,Warehouse 03,Bengaluru,Karnataka,15262
+4,Warehouse 04,Mumbai,Maharashtra,18458
+5,Warehouse 05,Pune,Maharashtra,13674
+6,Warehouse 06,Delhi,Delhi,16635
+7,Warehouse 07,Kolkata,West Bengal,17504
+8,Warehouse 08,Ahmedabad,Gujarat,8378
+9,Warehouse 09,Jaipur,Rajasthan,5832
+10,Warehouse 10,Kochi,Kerala,9502
